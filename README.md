@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <img src="./image/anime-gif-2-s.gif" alt="Umaru 1" width="215" />
+  <img src="./image/anime-gif-2-s.gif" alt="Umaru 1" width="213" />
   <img src="./image/anime-gif-1.gif" alt="Umaru 2" width="250" />
   <img src="./image/anime-gif-3.gif" alt="Umaru 3" width="250" />
 </p>
