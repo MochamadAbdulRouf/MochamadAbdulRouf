@@ -8,7 +8,7 @@
 [![GitHub](https://custom-icon-badges.demolab.com/badge/MochamadAbdulRouf-181717?logo=github&logoColor=fff)](https://github.com/MochamadAbdulRouf/)
 [![Instagram](https://custom-icon-badges.demolab.com/badge/mochabdlrouf-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/mochabdlrouf/)
 [![Blogger](https://custom-icon-badges.demolab.com/badge/mochabdulrouf-FF5722?logo=blogger&logoColor=fff)](https://mochabdulrouf.blogspot.com/)
-[![Medium](https.custom-icon-badges.demolab.com/badge/Medium-000000?logo=medium&logoColor=fff)](https://medium.com/@rouf08412)
+[![Medium](https://custom-icon-badges.demolab.com/badge/Medium-000000?logo=medium&logoColor=fff)](https://medium.com/@rouf08412)
 
 
 </div>
