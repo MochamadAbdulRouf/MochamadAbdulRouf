@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <img src="./image/anime-gif-2.gif" alt="Doggo 1" width="200" />
+  <img src="./image/anime-gif-2-s.gif" alt="Doggo 1" width="230" />
   <img src="./image/anime-gif-1.gif" alt="Doggo 2" width="250" />
   <img src="./image/anime-gif-3.gif" alt="Doggo 3" width="250" />
 </p>
