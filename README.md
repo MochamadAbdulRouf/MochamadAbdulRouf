@@ -14,6 +14,16 @@
 </div>
 
 
+### 💻 Tech Stack:
+<p align="left">
+    <img src="https://img.shields.io/badge/Docker-24292e?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Ansible-24292e?style=for-the-badge&logo=ansible&logoColor=EE0000" alt="Ansible"/>
+    <img src="https://img.shields.io/badge/Terraform-24292e?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform"/>
+    <img src="https://img.shields.io/badge/Kubernetes-24292e?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/Jenkins-24292e?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins"/>
+    <img src="https://img.shields.io/badge/Linux-24292e?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Bash-24292e?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+</p>
 
 
 <!--
