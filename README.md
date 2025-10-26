@@ -14,7 +14,7 @@
 </div>
 
 
-### 💻🥳 I Enjoy Learning About This 
+### 💻🧐Enjoy Learning About This 
 <p align="left">
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/>
