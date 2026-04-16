@@ -351,41 +351,20 @@ $ cat passion.txt
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200px"><b>🧹 Clean Code</b><br/><sub>Readable today,<br/>maintainable tomorrow</sub></td>
-    <td align="center" width="200px"><b>📐 SOLID First</b><br/><sub>Design before you<br/>ever write a line</sub></td>
-    <td align="center" width="200px"><b>⚡ Perf by Default</b><br/><sub>Efficiency isn't<br/>an afterthought</sub></td>
-    <td align="center" width="200px"><b>🔐 Secure Always</b><br/><sub>Security baked in,<br/>never bolted on</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌊 Scale Thinking</b><br/><sub>Build for 10x<br/>from day one</sub></td>
-    <td align="center"><b>🤝 Mentor-first</b><br/><sub>A team that grows<br/>is a team that wins</sub></td>
-    <td align="center"><b>🔁 GitOps Native</b><br/><sub>Git as the single<br/>source of truth</sub></td>
-    <td align="center"><b>📊 Observe Everything</b><br/><sub>You can't fix what<br/>you can't measure</sub></td>
-  </tr>
-</table>
 
----
-
-<br/> -->
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/mochabdulrouf/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:mochamadabdulrouf1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://mochabdulrouf.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
+### 💻🧐Enjoy Learning About This 
+<p align="left">
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/>
+<img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
+<img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+<img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+<img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp"/>
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+<img src="https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
 </p>
 
 <br/>
