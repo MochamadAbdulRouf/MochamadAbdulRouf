@@ -308,6 +308,7 @@ $ cat passion.txt
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MochamadAbdulRouf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github" />
 
+</br>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochamadAbdulRouf&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" />
 
