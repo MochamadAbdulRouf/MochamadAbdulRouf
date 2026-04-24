@@ -383,5 +383,5 @@ $ cat passion.txt
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff88,100:0f0f0f&height=120&section=footer" />
 
 <div align="center">
-  <sub> I can and I will watch Me </sub>
+  <sub> I can and I will, watch Me </sub>
 </div>
